@@ -276,9 +276,10 @@ margin-top: 160px;
     height: 60px;
     align-items: center;
 margin-right: 10px
- box-shadow: 5px 10px;
+ box-shadow 5px 10px;
 
 }
 
-
-
+.tskills{
+    align-content: center;
+}
