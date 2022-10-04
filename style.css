@@ -4,7 +4,7 @@
 .navbar{
     display: flex;
     justify-content: center;
-    background-color: rgb(188, 129, 135); 
+    background-color: #2d3e4e;
    
      width: 100vw;
 }
@@ -36,7 +36,7 @@
     height:840px;
     justify-content: center;
     align-items: center;
-    color: rgb(179, 114, 114);
+    color: white;
     flex-direction: column;
     position: absolute;    
 bottom: 2%;
@@ -51,46 +51,52 @@ bottom: 2%;
 #img{
 margin: 50px 70px 90px 90px;
 color: beige;
-background-color:  rgb(192, 183, 170);
+background-color: #8cbdb9;
 top: 34px
 }
 
 
 .top{
-    display: block;
-    background-color:  rgb(241, 137, 137) ;
+
+    background-color: #2d3e4e  ;
     color: white;
     font-size: 50px;
+
     
 
 }
 #intro{
    
     font-size: 20px;
-background-color: antiquewhite;
-border: 1px solid rgb(11, 10, 10);
-width: 500px;
+background-color: #8cbdb9;
+border: 1px solid white;
+width: 450px;
 height: 500px;
 padding: 20px;
 border-radius: 15px;
  font-family:"inter", sans-serif;
 padding-top : 10px;
 margin-left: 10%;
+color: #2d3e4e;
+margin-top: 2%;
+box-shadow: 5px 10px;
 
 }
 #ngo{
     font-size: 20px;
-background-color: antiquewhite;
-border: 1px solid rgb(11, 10, 10);
-width: 500px;
+background-color:#8cbdb9;
+border: 1px solid white;
+width: 450px;
 height: 500px;
 padding: 20px;
 border-radius: 15px;
-margin: 10px;
-padding-top: 10px;
-margin-right: 5%;
+margin: 160px;
+margin-right: 100px;
 padding-top : 10px;
-
+color: #2d3e4e;
+margin-top: 2%;
+box-shadow: 5px 10px;
+font-family:"inter", sans-serif;
 
 
 }
@@ -114,24 +120,24 @@ padding-top : 10px;
 }
  .skills{
     display: block;
-    background-color: rgb(241, 137, 137) ;
+    background-color: #2d3e4e ;
     color: white;
-    font-size: 40px;
+    font-size: 49px;
    
  }
  .row{
     display: inline;
     flex-direction: column;
-    width: 300px;
+    width: 400px;
   height: 400px;
   padding: 10px;
   border-radius: 15px;
-  margin: 10px;
-border: 1px solid rgb(11, 10, 10);
-margin-right: 60px;
-margin-left: 250px;
+  margin: 2px;
+border: 1px solid #2d3e4e;
+margin-right: 50px;
+margin-left: 150px;
 box-shadow: 5px 10px;
-background-color:  rgb(245, 173, 155);
+background-color:  #8cbdb9;
 
 
 
@@ -193,16 +199,16 @@ background-color:  rgb(245, 173, 155);
 }
 .ngo{
     width: 210px;
-    height: 230px;
+    height: 200px;
      margin-left: 60px;
     padding: 50px;
-    margin-bottom: 65px;
+    margin-bottom: 60px;
    
 }
 .pic1{
     width: 250px;
     height: 200px;
-   margin-top: 60px; 
+   margin-top: 50px; 
     padding: 70px;
     margin-bottom: 40px;
 margin-left:66px;
