@@ -5,7 +5,7 @@
     display: flex;
     justify-content: center;
     background-color: rgb(188, 129, 135); 
-    position: fixed;
+   
      width: 100vw;
 }
 .navbar ul{
@@ -33,14 +33,14 @@
 
 #home {
     display: flex;
-    hight: 840px;
+    height:840px;
     justify-content: center;
     align-items: center;
     color: rgb(179, 114, 114);
     flex-direction: column;
     position: absolute;    
-    top: 30%;
-    right: 25%;
+bottom: 2%;
+    right: 21%;
     font-size: 30px;
    
 } .headings{
@@ -96,7 +96,7 @@ padding-top : 10px;
 }
 .imp{
     display: block;
-    background-color: rgb(241, 137, 137) ;
+    background-color: rgb(241, 137, 137);
     color: white;
     font-size: 40px;
     top: 80%;
@@ -160,7 +160,7 @@ background-color:  rgb(245, 173, 155);
  }
  
 .me{
-    front-size: 40px;
+    font-size : 40px;
     background-color: rgb(241, 137, 137);
 
 }
@@ -180,11 +180,11 @@ background-color:  rgb(245, 173, 155);
     align-items: center;
     position: absolute;    
     flex-direction: column;
-    top: 50%;
-    right: 32%;
+    top: 3%;
+    right: 62%;
     font-size: 20px;
     display: flex;
-    hight: 840px;
+    height: 840px;
     justify-content: center;
     align-items: center;
     color: rgb(132, 76, 76);
@@ -213,7 +213,7 @@ margin-left:66px;
     align:"center";
  }
 .gallery{
-    dislpay;flex;
+    dislpay:flex;
     flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
