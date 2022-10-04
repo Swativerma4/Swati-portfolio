@@ -223,12 +223,15 @@ margin-left:66px;
     flex-wrap: wrap;
     justify-content: space-around;
     box-sizing: border-box;
-    
+    border: 1px soild black;
+    flex-direction: column;
+    background-color: #8cbdb9;
 }
 .gallery img{
     width: 360px;
     height: 300px;
     margin: 45px;
+ 
 }
 #footer{
     padding: 3.4rem;
@@ -258,34 +261,44 @@ margin-bottom: 5rem;
 
 }
 .contact-form {
-    padding: 2rem;
+    padding: 1rem;
     justify-self: center;
     align-self: center;
     border-radius: 1rem;
     border: 1px solid;
-height: 15rem; 
-width: 10rem;
+height: 25rem; 
+width: 20rem;
 box-shadow: 5px 10px;
-background-color: antiquewhite;
+background-color: #2d3e4e;
+color:white;
+
+
 }
+
     .contact-heading{
         align-self: center;
-      color:rgb(132, 76, 76);  
+      color:white;  
       font-size: 30px;
 margin-top: 160px;
-    }
-    .cv{
-       
-        color: rgb(241, 137, 137) ;
-    padding: 6px;
-    width: 150px;
-    height: 60px;
-    align-items: center;
-margin-right: 10px
- box-shadow 5px 10px;
+    background-color: #2d3e4e;
 
 }
 
 .tskills{
     align-content: center;
+}
+.Submit{
+    background-color: white;
+
+    color:#2d3e4e;
+    border: 1px solid black;
+    height: 100%;
+border-radius: 5px;
+padding: 10px 20px 10px 20px;
+font-size: 20px;
+margin-top: 20%;
+
+}
+#contact{
+    background-color: #8cbdb9;
 }
